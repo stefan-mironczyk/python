@@ -20,7 +20,7 @@ else:
     print("Na immerhin ist dein Passwort nicht 123.")
 print("Login erfolgreich!")
 
-# Schauen wir uns den Code noch einmal Zeile für Zeile an:
+# Schauen wir uns den Code noch einmal Zeile für Zeile an:>>
 
 #print(„Bitte Passwort eingeben.“)
 ##Gibt den Text „Bitte Passwort eingeben.“ auf dem Bildschirm aus.
